@@ -12,7 +12,7 @@ MCP server providing read/write access to Apple Notes via AppleScript.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/apple-notes-mcp.git
+git clone https://github.com/neonwatty/apple-notes-mcp.git
 cd apple-notes-mcp
 uv venv
 uv pip install -e .
